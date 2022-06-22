@@ -1,4 +1,4 @@
-# scientific_computing_with_python_projects
+# "Scientific Computing with Python" submissions
 This repo contains all the project submissions for the freeCodeCamp.org "Scientific Computing with Python" course:
 
 1. Arithmetic Formatter
