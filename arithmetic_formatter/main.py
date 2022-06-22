@@ -6,3 +6,8 @@ from arithmetic_arranger import arithmetic_arranger
 result = arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True)
 
 print(result)
+# Prints:
+#   32      3801      45      123
+#+ 698    -    2    + 43    +  49
+#-----    ------    ----    -----
+#  730      3799      88      172
